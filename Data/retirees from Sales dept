@@ -1,0 +1,7 @@
+Select di.emp_no,
+	di.first_name,
+	di.last_name,
+	di.dept_name
+INTO sales_dept_employees
+FROM dept_info as di
+WHERE dept_name ='Sales'
