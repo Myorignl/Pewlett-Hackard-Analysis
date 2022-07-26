@@ -23,12 +23,12 @@ In Deliverable 2 we are tasked with identifying the employees that qualify to  b
 
 ## Findings 
 
-The analisys conducted has revealed that Pwelett Packard is expected to loose 52,153 employees to retirement. The majority of the employees (48%) hold a  Senior Staff title
+The analisys conducted has revealed that Pwelett Packard is expected to loose a large number of employees to retirement. The majority of the employees (48%) hold a  Senior Staff title
 
-![image](https://user-images.githubusercontent.com/104601282/180938227-18ec8eed-db04-40a5-8dfb-9718e1aec3e7.png)
+![image](https://user-images.githubusercontent.com/104601282/180947814-cc0d26a9-e80c-4ca2-9435-c1bf17d43a36.png)
 
-The managers table managers listed are allin the retirement list. The hiring and training must include new managing staff.  
-![image](https://user-images.githubusercontent.com/104601282/180944244-c7a36a2b-a11e-404c-ac54-710406dde2ea.png)
+The managers table includes the employee numbers of curent managers, all amanagers listed are in the retirement list. The hiring and training must include new managing staff.  
+![image](https://user-images.githubusercontent.com/104601282/180947539-a79b3fc0-26c2-46ad-a158-f58884a4ae21.png)
 
 The development department is projected to have the bigest employee loss to retirement as seen in the table below. 
 ![image](https://user-images.githubusercontent.com/104601282/180945680-051aea8c-7514-46cc-9057-0344a8d0966c.png)
