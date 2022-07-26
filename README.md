@@ -36,4 +36,15 @@ The development department is projected to have the bigest employee loss to reti
 To identify the number of expected employees to retire by department I added department name as a left join the deliverable one schema, I also created a select count schema to generate the retirement counts by department table. To verify accuracy I added the employee birthdates. The Scema and CSV are also in the queries folder. 
 The company has the right mindset by loking at the numbers and creating a plan to address the upcomming needs, this report will hep them accompish their goals.
 
+The mentorship program elegibility list has 0ver 72k potential candidates. The candidates criteria was set as born between 1952 and 1955 and excludes employees that have already left the company. The top 3 group of qualifying employees hold a tiltle of Staff, engineers  and Senior Engineers.
+
+- Assistant Engineer: 2178
+- Engineer: 17216
+- Manager: 3
+- Senior Engineer: 16897
+- Senior Staff: 15293
+- Staff: 17269
+- Technique Leader: 3602
+
+The company has the right mindset by loking at the numbers and creating a plan to address the upcomming needs, this report will hep them accompish their goals.
 
