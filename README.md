@@ -31,7 +31,8 @@ The managers table includes the employee numbers of curent managers, all amanage
 ![image](https://user-images.githubusercontent.com/104601282/180947539-a79b3fc0-26c2-46ad-a158-f58884a4ae21.png)
 
 The development department is projected to have the bigest employee loss to retirement as seen in the table below. 
-![image](https://user-images.githubusercontent.com/104601282/180945680-051aea8c-7514-46cc-9057-0344a8d0966c.png)
+![image](https://user-images.githubusercontent.com/104601282/181076910-724ec862-7289-402c-a9b9-9e6b02b68def.png)
+
 
 To identify the number of expected employees to retire by department I added department name as a left join the deliverable one schema. I exchanged the employee file to the retirering titles file.  I also created a select count schema to generate the retirement counts by department table. To verify accuracy I added the employee birthdates. The Schema and CSV are also in the queries folder. 
 
