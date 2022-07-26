@@ -33,8 +33,9 @@ The managers table includes the employee numbers of curent managers, all amanage
 The development department is projected to have the bigest employee loss to retirement as seen in the table below. 
 ![image](https://user-images.githubusercontent.com/104601282/180945680-051aea8c-7514-46cc-9057-0344a8d0966c.png)
 
-To identify the number of expected employees to retire by department I added department name as a left join the deliverable one schema, I also created a select count schema to generate the retirement counts by department table. To verify accuracy I added the employee birthdates. The Scema and CSV are also in the queries folder. 
-The company has the right mindset by loking at the numbers and creating a plan to address the upcomming needs, this report will hep them accompish their goals.
+To identify the number of expected employees to retire by department I added department name as a left join the deliverable one schema. I exchanged the employee file to the retirering titles file.  I also created a select count schema to generate the retirement counts by department table. To verify accuracy I added the employee birthdates. The Schema and CSV are also in the queries folder. 
+
+![image](https://user-images.githubusercontent.com/104601282/181073044-92ab3a08-f5b2-42e1-b052-fed99fa9e78a.png)
 
 The mentorship program elegibility list has 0ver 72k potential candidates. The candidates criteria was set as born between 1952 and 1955 and excludes employees that have already left the company. The top 3 group of qualifying employees hold a tiltle of Staff, engineers  and Senior Engineers.
 
