@@ -33,7 +33,7 @@ The managers table includes the employee numbers of curent managers, all amanage
 The development department is projected to have the bigest employee loss to retirement as seen in the table below. 
 ![image](https://user-images.githubusercontent.com/104601282/180945680-051aea8c-7514-46cc-9057-0344a8d0966c.png)
 
-To determin this I added department name as a left join the deliverable one schema and created a select count schema to generate the retirement counts by department table. To verify accuracy I added the mployee birthdate. The Scema and CSV are also in the queries folder. 
+To identify the number of expected employees to retire by department I added department name as a left join the deliverable one schema, I also created a select count schema to generate the retirement counts by department table. To verify accuracy I added the employee birthdates. The Scema and CSV are also in the queries folder. 
 The company has the right mindset by loking at the numbers and creating a plan to address the upcomming needs, this report will hep them accompish their goals.
 
 
