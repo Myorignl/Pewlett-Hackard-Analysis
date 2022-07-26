@@ -25,7 +25,7 @@ In Deliverable 2 we are tasked with identifying the employees that qualify to  b
 
 The analisys conducted has revealed that Pwelett Packard is expected to loose a large number of employees to retirement. The majority of the employees (48%) hold a  Senior Staff title
 
-![image](https://user-images.githubusercontent.com/104601282/180947814-cc0d26a9-e80c-4ca2-9435-c1bf17d43a36.png)
+![image](https://user-images.githubusercontent.com/104601282/180948215-cbee5d87-a2a1-4828-998d-e0de7afc5a80.png)
 
 The managers table includes the employee numbers of curent managers, all amanagers listed are in the retirement list. The hiring and training must include new managing staff.  
 ![image](https://user-images.githubusercontent.com/104601282/180947539-a79b3fc0-26c2-46ad-a158-f58884a4ae21.png)
