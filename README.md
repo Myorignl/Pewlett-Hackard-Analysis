@@ -15,11 +15,19 @@ In Deliverable one the employees nearing retirement age are identified. This por
 
 Each table / csv fie  and Schema for this deliverable is available for view in the Queries folder.
 
+![image](https://user-images.githubusercontent.com/104601282/181105539-7047cad6-18a9-455f-b05b-e89580a5650f.png)
+
+![image](https://user-images.githubusercontent.com/104601282/181105296-a460c1fd-1ef8-4d02-a841-47b3a9b8cac0.png)
+
 ## Deliverable No. 2
 
 In Deliverable 2 we are tasked with identifying the employees that qualify to  become mentors for the new employees. These employees will have an option to remain employed as part time to assist in training of new hires in t heir departments.
 
 * Mentorship Elegibility Table - This table provides a list of employees by department whos birthdates were between Jan 1, 1965 and Dec 31, 1965. The employees were sorted by number. 
+
+![image](https://user-images.githubusercontent.com/104601282/181106391-b1fc869d-dd89-4de5-8fde-25171f90daaa.png)
+
+![image](https://user-images.githubusercontent.com/104601282/181105378-6f4a6fa3-3cd5-46d5-81d7-0cdd64e90ea0.png)
 
 ## Findings 
 
